@@ -7,4 +7,4 @@ Develop an application for Apache Spark in standalone mode (working on one machi
 4. Make a stemming for your text;
 5. Print out Top50 most and least common words by stemming.
 
-Variant 3 
+Variant 3 book.txt -- Алексей Николаевич Толстой – Эмигранты
